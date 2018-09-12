@@ -1,3 +1,3 @@
 # ap-cs-project-site
-the website I built for my ap-cs class
+This is the first website I have built using code.
 https://ciara-walton-09-27.github.io/ap-cs-project-site/
